@@ -2623,4 +2623,10 @@ File: nvidia/tegra124/xusb.bin
 
 Licence: Redistributable. See LICENCE.nvidia for details
 
+Driver: nouveau - NVIDIA GPU driver
+
+File: nvidia/tegra124/gk20a_ctxsw.bin
+
+Licence: Redistributable. See LICENCE.nvidia for details
+
 --------------------------------------------------------------------------
