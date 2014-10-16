@@ -2616,3 +2616,11 @@ File: dvb-usb-it9135-02.fw
 Licence: Redistributable. See LICENCE.it913x for details
 
 --------------------------------------------------------------------------
+
+Driver: xhci-tegra -- NVIDIA Tegra124 XHCI driver
+
+File: nvidia/tegra124/xusb.bin
+
+Licence: Redistributable. See LICENCE.nvidia for details
+
+--------------------------------------------------------------------------
